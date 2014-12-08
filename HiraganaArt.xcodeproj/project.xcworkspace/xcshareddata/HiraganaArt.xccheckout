@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>2F8FA578-06AA-4E58-A11B-C50961188AD6</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>37526DA425E5430474A14FBFA1BC4525160B5FC1</key>
+		<string>github.com:kylemcdonald/ofxCv.git</string>
+		<key>5431C3098324239824B3A313883F8CE1A84C3E6A</key>
+		<string>github.com:neilmendoza/ofxStateMachine.git</string>
+		<key>6E85F585BA7940AD33F8E74F0EE05D55511194B6</key>
+		<string>github.com:hironishihara/ofxTrueTypeFontUC.git</string>
+	</dict>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>37526DA425E5430474A14FBFA1BC4525160B5FC1</key>
+		<string>ofxCv/</string>
+		<key>5431C3098324239824B3A313883F8CE1A84C3E6A</key>
+		<string>ofxStateMachine/</string>
+		<key>6E85F585BA7940AD33F8E74F0EE05D55511194B6</key>
+		<string>ofxTrueTypeFontUC/</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>github.com:kylemcdonald/ofxCv.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>37526DA425E5430474A14FBFA1BC4525160B5FC1</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>37526DA425E5430474A14FBFA1BC4525160B5FC1</string>
+			<key>IDESourceControlWCCName</key>
+			<string>ofxCv</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>5431C3098324239824B3A313883F8CE1A84C3E6A</string>
+			<key>IDESourceControlWCCName</key>
+			<string>ofxStateMachine</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>6E85F585BA7940AD33F8E74F0EE05D55511194B6</string>
+			<key>IDESourceControlWCCName</key>
+			<string>ofxTrueTypeFontUC</string>
+		</dict>
+	</array>
+</dict>
+</plist>
